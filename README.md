@@ -6,10 +6,11 @@
 
 ### Part 1 스프링 개발 환경 구축
 
-- [x] WAS로 tomcat 사용하기
-- [x] lombok 사용해보기
+- [x] WAS로 tomcat 설정하기
+- [x] lombok 라이브러리 사용하기
 - [x] DB는 mysql로 설정하기
 - [x] jdbc 라이브러리 사용하기
+- [x] Connection Pool(HikariCP) 사용하기
 - [ ] mybatis 라이브러리 사용하기
 
 
